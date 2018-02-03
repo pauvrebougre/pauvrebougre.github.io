@@ -13,8 +13,8 @@ theme_settings:
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p>Je ne suis qu'un pauvre bougre <code>_config.yml</code> <br> sur le chemin de l'éternité.</p>
-  header_text_feature_image: assets/img/pexels/0EF96B44-4046-4670-ABD0-C67428D9FA76.jpeg
+     <p>Je ne suis qu'un pauvre bougre <br> sur le chemin de l'éternité.</p>
+  header_text_feature_image: assets/img/pexels/Lampes.jpg
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
