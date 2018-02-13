@@ -53,14 +53,14 @@ theme_settings:
   
   
   # Localization strings
-  str_follow_on: "Follow on"
-  str_rss_follow: "Follow RSS feed"
-  str_email: "Email"
-  str_next_post: "Next post"
-  str_previous_post: "Previous post"
-  str_next_page: "Next"
-  str_previous_page: "Prev"
-  str_continue_reading: "Continue reading"
+  str_follow_on: "Suivre sur"
+  str_rss_follow: "Flux RSS"
+  str_email: "Courriel"
+  str_next_post: "Prochain article"
+  str_previous_post: "Article précédent"
+  str_next_page: "Suivant"
+  str_previous_page: "Précédent"
+  str_continue_reading: "Continuer à lire"
   str_javascript_required_disqus: "Please enable JavaScript to view comments."
 
   # Colours, typography and padding
